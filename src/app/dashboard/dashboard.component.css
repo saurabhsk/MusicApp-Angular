@@ -1,0 +1,17 @@
+.logo{
+    color:white;
+    font-size:30px;
+    text-decoration: none;
+}
+.navbar{
+    border-bottom: #008ed6 3px solid;
+}
+.font{
+ color:white;
+ margin-top: 5px;
+ padding: 5px;
+ text-decoration: none;
+}
+li a:hover{
+    color:skyblue;
+}
